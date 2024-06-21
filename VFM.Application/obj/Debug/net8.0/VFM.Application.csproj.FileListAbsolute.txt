@@ -1,0 +1,15 @@
+D:\project\VFM\Server\VFM.Application\bin\Debug\net8.0\VFM.Application.deps.json
+D:\project\VFM\Server\VFM.Application\bin\Debug\net8.0\VFM.Application.dll
+D:\project\VFM\Server\VFM.Application\bin\Debug\net8.0\VFM.Application.pdb
+D:\project\VFM\Server\VFM.Application\bin\Debug\net8.0\VFM.Core.dll
+D:\project\VFM\Server\VFM.Application\bin\Debug\net8.0\VFM.Core.pdb
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.csproj.AssemblyReference.cache
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.AssemblyInfoInputs.cache
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.AssemblyInfo.cs
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.csproj.CoreCompileInputs.cache
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Appl.D6C840FC.Up2Date
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.dll
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\refint\VFM.Application.dll
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\VFM.Application.pdb
+D:\project\VFM\Server\VFM.Application\obj\Debug\net8.0\ref\VFM.Application.dll

@@ -1,0 +1,11 @@
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.AssemblyInfoInputs.cache
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.AssemblyInfo.cs
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.csproj.CoreCompileInputs.cache
+D:\project\VFM\Server\VFM.Core\bin\Debug\net8.0\VFM.Core.deps.json
+D:\project\VFM\Server\VFM.Core\bin\Debug\net8.0\VFM.Core.dll
+D:\project\VFM\Server\VFM.Core\bin\Debug\net8.0\VFM.Core.pdb
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.dll
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\refint\VFM.Core.dll
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.pdb
+D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\ref\VFM.Core.dll

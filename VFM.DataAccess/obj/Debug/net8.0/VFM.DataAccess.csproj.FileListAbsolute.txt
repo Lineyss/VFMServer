@@ -1,0 +1,17 @@
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.csproj.AssemblyReference.cache
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.AssemblyInfoInputs.cache
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.AssemblyInfo.cs
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.csproj.CoreCompileInputs.cache
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.DataAccess.deps.json
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.DataAccess.runtimeconfig.json
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.DataAccess.dll
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.DataAccess.pdb
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.Core.dll
+D:\project\VFM\Server\VFM.DataAccess\bin\Debug\net8.0\VFM.Core.pdb
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.Data.36D343AE.Up2Date
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.dll
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\refint\VFM.DataAccess.dll
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.pdb
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\VFM.DataAccess.genruntimeconfig.cache
+D:\project\VFM\Server\VFM.DataAccess\obj\Debug\net8.0\ref\VFM.DataAccess.dll
