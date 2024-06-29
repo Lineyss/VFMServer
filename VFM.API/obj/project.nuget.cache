@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2TQ34qcB9B0=",
+  "dgSpecHash": "AZMqGQTobiA=",
   "success": true,
-  "projectFilePath": "D:\\project\\VFM\\Server\\VFM.API\\VFM.API.csproj",
+  "projectFilePath": "D:\\project\\VFMServer\\VFM.API\\VFM.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sasch\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\sasch\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -74,9 +74,9 @@
     "C:\\Users\\sasch\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\sasch\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\sasch\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
-    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.5\\microsoft.netcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
-    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.5\\microsoft.netcore.app.host.linux-x64.8.0.5.nupkg.sha512",
-    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.5.nupkg.sha512"
+    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.6\\microsoft.netcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.6\\microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\sasch\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }

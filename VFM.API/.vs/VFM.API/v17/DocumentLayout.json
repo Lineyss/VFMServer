@@ -1,16 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\project\\VFM\\Server\\VFM.API\\",
+  "WorkspaceRootPath": "D:\\project\\VFMServer\\VFM.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD62D5C-0BD4-4931-897C-EC8AF740D128}|..\\VFM.Application\\VFM.Application.csproj|d:\\project\\vfm\\server\\vfm.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE3431D-1979-44C0-8888-4B4FD96EF149}|VFM.API.csproj|d:\\project\\vfm\\server\\vfm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE3431D-1979-44C0-8888-4B4FD96EF149}|VFM.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD62D5C-0BD4-4931-897C-EC8AF740D128}|..\\VFM.Application\\VFM.Application.csproj|d:\\project\\vfm\\server\\vfm.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DD62D5C-0BD4-4931-897C-EC8AF740D128}|..\\VFM.Application\\VFM.Application.csproj|d:\\project\\vfmserver\\vfm.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,41 +65,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\project\\VFM\\Server\\VFM.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\project\\VFM\\Server\\VFM.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T18:05:54.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\project\\VFM\\Server\\VFM.Application\\Services\\AuthService.cs",
+              "DocumentMoniker": "D:\\project\\VFMServer\\VFM.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\VFM.Application\\Services\\AuthService.cs",
-              "ToolTip": "D:\\project\\VFM\\Server\\VFM.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\project\\VFMServer\\VFM.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "..\\VFM.Application\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:17:46.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\project\\VFM\\Server\\VFM.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\VFM.Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\project\\VFM\\Server\\VFM.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "..\\VFM.Application\\Services\\UserService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:10:44.05Z",
+              "WhenOpened": "2024-06-23T22:46:44.909Z",
               "EditorCaption": ""
             }
           ]

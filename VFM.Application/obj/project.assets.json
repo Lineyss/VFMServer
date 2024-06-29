@@ -4117,24 +4117,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sasch\\.nuget\\packages\\": {},
-    "D:\\System\\VisualStudioSDK\\NuGetPackages": {}
+    "C:\\Users\\sasch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\VFM\\Server\\VFM.Application\\VFM.Application.csproj",
+      "projectUniqueName": "D:\\project\\VFMServer\\VFM.Application\\VFM.Application.csproj",
       "projectName": "VFM.Application",
-      "projectPath": "D:\\project\\VFM\\Server\\VFM.Application\\VFM.Application.csproj",
+      "projectPath": "D:\\project\\VFMServer\\VFM.Application\\VFM.Application.csproj",
       "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\VFM\\Server\\VFM.Application\\obj\\",
+      "outputPath": "D:\\project\\VFMServer\\VFM.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\System\\VisualStudioSDK\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4149,8 +4144,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj": {
-              "projectPath": "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj"
+            "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+              "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj"
             }
           }
         }
@@ -4195,7 +4190,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

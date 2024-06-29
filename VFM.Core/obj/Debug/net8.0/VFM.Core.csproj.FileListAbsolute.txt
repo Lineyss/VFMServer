@@ -9,3 +9,15 @@ D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.dll
 D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\refint\VFM.Core.dll
 D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\VFM.Core.pdb
 D:\project\VFM\Server\VFM.Core\obj\Debug\net8.0\ref\VFM.Core.dll
+D:\project\VFMServer\VFM.Core\bin\Debug\net8.0\VFM.Core.deps.json
+D:\project\VFMServer\VFM.Core\bin\Debug\net8.0\VFM.Core.dll
+D:\project\VFMServer\VFM.Core\bin\Debug\net8.0\VFM.Core.pdb
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.AssemblyInfoInputs.cache
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.AssemblyInfo.cs
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.csproj.CoreCompileInputs.cache
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.sourcelink.json
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.dll
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\refint\VFM.Core.dll
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\VFM.Core.pdb
+D:\project\VFMServer\VFM.Core\obj\Debug\net8.0\ref\VFM.Core.dll

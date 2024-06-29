@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj": {}
+    "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj": {
+    "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj",
+        "projectUniqueName": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "projectName": "VFM.Core",
-        "projectPath": "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj",
+        "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\VFM\\Server\\VFM.Core\\obj\\",
+        "outputPath": "D:\\project\\VFMServer\\VFM.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\System\\VisualStudioSDK\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,25 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj": {
+    "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj",
+        "projectUniqueName": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
         "projectName": "VFM.DataAccess",
-        "projectPath": "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj",
+        "projectPath": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\VFM\\Server\\VFM.DataAccess\\obj\\",
+        "outputPath": "D:\\project\\VFMServer\\VFM.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\System\\VisualStudioSDK\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj": {
-                "projectPath": "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj"
+              "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+                "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj"
               }
             }
           }
@@ -150,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

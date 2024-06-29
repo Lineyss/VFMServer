@@ -108,3 +108,14 @@ D:\project\VFM\Server\VFM.API\bin\Debug\net8.0\VFM.DataAccess.pdb
 D:\project\VFM\Server\VFM.API\bin\Debug\net8.0\VFM.Core.pdb
 D:\project\VFM\Server\VFM.API\bin\Debug\net8.0\VFM.Application.dll
 D:\project\VFM\Server\VFM.API\bin\Debug\net8.0\VFM.Application.pdb
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.csproj.AssemblyReference.cache
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.AssemblyInfoInputs.cache
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.AssemblyInfo.cs
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.csproj.CoreCompileInputs.cache
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.sourcelink.json
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.dll
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\refint\VFM.API.dll
+D:\project\VFMServer\VFM.API\obj\Debug\net8.0\VFM.API.pdb

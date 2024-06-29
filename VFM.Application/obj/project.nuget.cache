@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VhmWh6MPBMY=",
+  "dgSpecHash": "4q6/6TxsdBU=",
   "success": true,
-  "projectFilePath": "D:\\project\\VFM\\Server\\VFM.Application\\VFM.Application.csproj",
+  "projectFilePath": "D:\\project\\VFMServer\\VFM.Application\\VFM.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sasch\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\sasch\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

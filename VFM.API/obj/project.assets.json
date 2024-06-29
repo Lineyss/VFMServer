@@ -4905,24 +4905,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sasch\\.nuget\\packages\\": {},
-    "D:\\System\\VisualStudioSDK\\NuGetPackages": {}
+    "C:\\Users\\sasch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\VFM\\Server\\VFM.API\\VFM.API.csproj",
+      "projectUniqueName": "D:\\project\\VFMServer\\VFM.API\\VFM.API.csproj",
       "projectName": "VFM.API",
-      "projectPath": "D:\\project\\VFM\\Server\\VFM.API\\VFM.API.csproj",
+      "projectPath": "D:\\project\\VFMServer\\VFM.API\\VFM.API.csproj",
       "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\VFM\\Server\\VFM.API\\obj\\",
+      "outputPath": "D:\\project\\VFMServer\\VFM.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\System\\VisualStudioSDK\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4937,14 +4932,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project\\VFM\\Server\\VFM.Application\\VFM.Application.csproj": {
-              "projectPath": "D:\\project\\VFM\\Server\\VFM.Application\\VFM.Application.csproj"
+            "D:\\project\\VFMServer\\VFM.Application\\VFM.Application.csproj": {
+              "projectPath": "D:\\project\\VFMServer\\VFM.Application\\VFM.Application.csproj"
             },
-            "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj": {
-              "projectPath": "D:\\project\\VFM\\Server\\VFM.Core\\VFM.Core.csproj"
+            "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+              "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj"
             },
-            "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj": {
-              "projectPath": "D:\\project\\VFM\\Server\\VFM.DataAccess\\VFM.DataAccess.csproj"
+            "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {
+              "projectPath": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj"
             }
           }
         }
@@ -4989,15 +4984,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[8.0.5, 8.0.5]"
+            "version": "[8.0.6, 8.0.6]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.5, 8.0.5]"
+            "version": "[8.0.6, 8.0.6]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[8.0.5, 8.0.5]"
+            "version": "[8.0.6, 8.0.6]"
           }
         ],
         "frameworkReferences": {
@@ -5008,7 +5003,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
