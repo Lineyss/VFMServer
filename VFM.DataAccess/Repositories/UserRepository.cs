@@ -19,6 +19,14 @@ namespace VFM.DataAccess.Repositories
             this.context = context;
         }
 
+        public async Task<User?> GetByEmail(string Email)
+        {
+            UserEntites? user = await context.Users
+                .FirstOrDefaultAsync(user => user.Email == Email);
+
+            return user == null ? null : User.Create(user.ID, user.Email, user.Password).user;
+        }
+
         public async Task<List<User>> Get()
         {
             // AsNoTracking - методя который позволяет не отслеживать изменения над моделью
@@ -68,5 +76,6 @@ namespace VFM.DataAccess.Repositories
 
             return id;
         }
+
     }
 }

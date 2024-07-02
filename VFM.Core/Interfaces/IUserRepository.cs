@@ -10,6 +10,7 @@ namespace VFM.Core.Interfaces
     public interface IUserRepository
     {
         Task<List<User>> Get();
+        Task<User?> GetByEmail(string Email);
 
         Task<Guid> Create(User user);
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VFM.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52bb7d34c80df534f53a77d2cc74df4c510ab988")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eae2a1a647bafa8bcd9678c438cf1a745c1d6cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("VFM.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VFM.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

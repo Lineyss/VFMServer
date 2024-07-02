@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {}
+    "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj": {}
   },
   "projects": {
-    "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+    "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
+        "projectUniqueName": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "projectName": "VFM.Core",
-        "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
+        "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\VFMServer\\VFM.Core\\obj\\",
+        "outputPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",

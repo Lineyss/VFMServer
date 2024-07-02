@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {}
+    "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+    "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
+        "projectUniqueName": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "projectName": "VFM.Core",
-        "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj",
+        "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\VFMServer\\VFM.Core\\obj\\",
+        "outputPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {
+    "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
+        "projectUniqueName": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
         "projectName": "VFM.DataAccess",
-        "projectPath": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
+        "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\VFMServer\\VFM.DataAccess\\obj\\",
+        "outputPath": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
-                "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj"
+              "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+                "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj"
               }
             }
           }

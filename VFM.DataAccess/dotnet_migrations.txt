@@ -1,0 +1,2 @@
+dotnet ef migrations add init -s .\VFM.API\ -p .\VFM.DataAccess\  : создание миграции
+dotnet ef database update -s .\VFM.API\ -p .\VFM.DataAccess\ :  применяет все ожидающие миграции к базе данных

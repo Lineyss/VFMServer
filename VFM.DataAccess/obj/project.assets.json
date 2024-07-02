@@ -2322,11 +2322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
+      "projectUniqueName": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
       "projectName": "VFM.DataAccess",
-      "projectPath": "D:\\project\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
+      "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\VFM.DataAccess.csproj",
       "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\VFMServer\\VFM.DataAccess\\obj\\",
+      "outputPath": "D:\\project\\VFM\\VFMServer\\VFM.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2344,8 +2344,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
-              "projectPath": "D:\\project\\VFMServer\\VFM.Core\\VFM.Core.csproj"
+            "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj": {
+              "projectPath": "D:\\project\\VFM\\VFMServer\\VFM.Core\\VFM.Core.csproj"
             }
           }
         }

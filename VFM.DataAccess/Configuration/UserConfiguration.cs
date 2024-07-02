@@ -22,6 +22,9 @@ namespace VFM.DataAccess.Configuration
                 .IsRequired()
                 .IsUnicode();
 
+            builder.HasIndex(user => user.Email)
+                .IsUnique();
+
             builder.Property(user => user.Password)
                 .HasMaxLength(User.MaxPasswordLenght)
                 .IsRequired();

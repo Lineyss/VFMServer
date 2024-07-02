@@ -12,7 +12,7 @@ using VFM.DataAccess;
 namespace VFM.DataAccess.Migrations
 {
     [DbContext(typeof(VFMDbContex))]
-    [Migration("20240621153300_init")]
+    [Migration("20240702105050_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -33,13 +33,19 @@ namespace VFM.DataAccess.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(250)
+                        .IsUnicode(true)
+                        .HasColumnType("character varying(250)");
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(250)
+                        .HasColumnType("character varying(250)");
 
                     b.HasKey("ID");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
 
                     b.ToTable("Users");
                 });
