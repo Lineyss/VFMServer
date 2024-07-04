@@ -51,6 +51,7 @@ namespace VFM.API
             builder.Services.AddScoped<IHash, Hash>();
             builder.Services.AddScoped<IJwtService, JwtService>();
             builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddScoped<IWebSocketHub, WebSocketHub>();
 
             var app = builder.Build();
 

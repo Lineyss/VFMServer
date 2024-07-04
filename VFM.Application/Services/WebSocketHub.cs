@@ -1,25 +1,41 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Net.WebSockets;
 using System.Text;
-using System.Threading.Tasks;
+using VFM.Core.Interfaces;
+using VFM.Core.Models;
 
 namespace VFM.Application.Services
 {
-    public class WebSocketHub
+    public class WebSocketHub : IWebSocketHub
     {
-        private static Dictionary<Guid, WebSocket> connectionWebSocket = new Dictionary<Guid, WebSocket>();
-        public (bool, string) RegisterNewWebSocket(Guid id, WebSocket webSocket)
+        private static List<WebSocketModel> connectionWebSockets = new();
+        public (WebSocketModel?, string) RegisterNewWebSocket(Guid id, WebSocket webSocket)
         {
-            if (connectionWebSocket.TryGetValue(id, out webSocket)) return (false, "Ошибка: сокет уже подключен");
             if (webSocket == null) throw new Exception("WebSocket is None");
-/*            if (id.) throw new Exception("Id is None");*/
-            connectionWebSocket.Add(id, webSocket);
 
-            return (true, "");
+            if (connectionWebSockets.FirstOrDefault(element => element.ID == id) == null) return (null, "Ошибка: сокет уже подключен");
+
+            (WebSocketModel model, string Error) = WebSocketModel.Create(webSocket);
+
+            if (model == null) throw new Exception(Error);
+
+            connectionWebSockets.Add(model);
+
+            return (model, "");
         }
 
-        public WebSocket GetConnection
+        public async Task RecieveMessage(WebSocketModel webSocketModel)
+        {
+            var buffer = new ArraySegment<byte>(new byte[1024]);
+            WebSocket _webSocket = webSocketModel.WebSocket;
+            
+        }
+        public async Task SendMessage(WebSocketModel webSocketModel, string message)
+        {
+            var buffer = new ArraySegment<byte>(Encoding.UTF8.GetBytes(message));
+            await webSocketModel.WebSocket.SendAsync(buffer, WebSocketMessageType.Text, true, webSocketModel.Token);
+        }
+
+        public WebSocketModel? GetConnectionWebSocket(Guid id) => connectionWebSockets.FirstOrDefault(element=> element.ID == id);
     }
 }

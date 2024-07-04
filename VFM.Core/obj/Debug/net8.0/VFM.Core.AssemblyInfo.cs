@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VFM.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eae2a1a647bafa8bcd9678c438cf1a745c1d6cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7107ee25cdb361ded520ad4e626ee97dbeb3d6e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VFM.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VFM.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
